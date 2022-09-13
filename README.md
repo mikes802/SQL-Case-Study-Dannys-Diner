@@ -1,4 +1,5 @@
 # 8-Week SQL Challenge: Case Study #1 - Danny's Diner
+<img src= "https://user-images.githubusercontent.com/99853599/189795690-e380fa71-118a-417e-8c73-169251b41eae.jpg" width="300" height="300"/>
 
 This is Case Study #1 from the 8-Week SQL Challenge of [Danny Ma's Serious SQL course](https://www.datawithdanny.com/ "Data With Danny"). My SQL [exploration](#data-exploration) and [solutions](#sql-query-solutions) can be found after the [background](#background) section below.
 
@@ -17,6 +18,7 @@ Paraphrashed from Danny's course:
 1. `sales`
 2. `menu`
 3. `members`
+![Screenshot 2022-09-12 222453](https://user-images.githubusercontent.com/99853599/189796050-4481c671-c436-422c-9c8b-02a35e1d9d91.jpg)
 
 ### Entity Relationship Diagram
 
