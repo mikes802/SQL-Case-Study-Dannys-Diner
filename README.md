@@ -18,10 +18,9 @@ Paraphrashed from Danny's course:
 1. `sales`
 2. `menu`
 3. `members`
-![Screenshot 2022-09-12 222453](https://user-images.githubusercontent.com/99853599/189796050-4481c671-c436-422c-9c8b-02a35e1d9d91.jpg)
 
 ### Entity Relationship Diagram
-
+<img src= "https://user-images.githubusercontent.com/99853599/189796050-4481c671-c436-422c-9c8b-02a35e1d9d91.jpg" width="600" height="300"/>
 
 ## [Data Exploration](#table-of-contents)
 ```sql
