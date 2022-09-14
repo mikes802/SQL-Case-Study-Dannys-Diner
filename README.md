@@ -85,7 +85,7 @@ FROM dannys_diner.menu;
 | 3          | ramen        | 12    |
 
 ```sql
--- Check data types for `price` table
+-- Check data types for `sales` table
 
 SELECT
   table_schema,
